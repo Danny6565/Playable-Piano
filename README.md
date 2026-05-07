@@ -1,5 +1,10 @@
 # 🎹 Playable Piano
 
+I wanted to play the piano!
+I didn't have a piano,
+so I build one!!
+
+
 A browser-based interactive piano you can play using your keyboard or mouse — built with HTML, CSS and JavaScript.
 
 ![Playable Piano Screenshot](screenshot.png)
